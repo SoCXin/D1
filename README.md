@@ -5,6 +5,8 @@
 #### 归属：[RISC](https://github.com/sochub/RISC) 
 ### [芯片简介](http://www.yspringtech.com/list/?134_1.html)
 
+YS83、84系列：集成ADC及PWM模块，具有良好的抗电源纹波、电压跌落及CS干扰性能，广泛应用于家电类产品
+
 YS84工程实际包括YS83B08/YS84B08/YS84C12这3个型号的单片机，同属于汇春touch MCU
 
 该系列单片机非标准8051内核，主要的特点是低性能低成本
