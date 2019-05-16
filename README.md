@@ -16,8 +16,9 @@ YS84工程实际包括YS83B08/YS84B08/YS84C12这3个型号的单片机，同属�
 * 8通道12位ADC,片内1.024V、2.048V或者VDD作为参考电压
 * 外部高速时钟：高达20MHz
 * 内部高速时钟：16MHz RC Fcpu支持16Mhz（VDD需大于4.5V）、8MHz、4MHz、2MHZ、1MHZ、500KHz、250KHz。
-* 内部低速时钟：RC振荡器31KHz。
-* SOP16, SOP20(SSOP20), SOP24(SSOP24) 
+* 内部低速时钟：RC振荡器31KHz
+* 工作电压 2.2-5.5 v 
+* YS84B08: SOP16, SOP20(SSOP20), SOP24(SSOP24) 
 
 
 ### [资源组成](https://github.com/sochub/YS84)
