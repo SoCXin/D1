@@ -6,10 +6,10 @@
     "version":"1.0.0",
     "Core": {
         "num": 1,
-        "type":"Cortex-M3",
-        "Freq": 80,
-        "DMIPS": 100,
-        "CoreMark": 250
+        "type":"RISC-V",
+        "Freq": 1100,
+        "DMIPS": 1000,
+        "CoreMark": 2500
     },
     "manufacturer": {
         "vendor":"Gowin",

@@ -12,7 +12,9 @@
 
 ### 关键特性
 
-* RISC-V C906
+* 1.1 GHz XuanTie RISC-V C906
+* HiFi4 DSP
+* 32 KB L1 I-cache and 32 KB L1 D-cache
 
 
 ### [资源收录](https://github.com/SoCXin)
